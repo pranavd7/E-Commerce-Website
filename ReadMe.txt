@@ -13,5 +13,3 @@ Steps to run the project-
 6) Open any browser, type localhost/ecommerce in the address bar and index page of the website will open.
 
 If the id, password of the local server is different than ('root', ''), then change the id, password from common.php file located in includes folder.
-
-The background images used are from the website https://www.pexels.com/ by the photographer Mikhail Nilov.
